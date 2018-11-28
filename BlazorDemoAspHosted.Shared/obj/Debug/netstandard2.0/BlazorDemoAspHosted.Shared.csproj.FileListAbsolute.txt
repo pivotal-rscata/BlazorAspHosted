@@ -1,0 +1,9 @@
+C:\Users\robsc\source\repos\BlazorDemoAspHosted\BlazorDemoAspHosted.Shared\bin\Debug\netstandard2.0\BlazorDemoAspHosted.Shared.deps.json
+C:\Users\robsc\source\repos\BlazorDemoAspHosted\BlazorDemoAspHosted.Shared\bin\Debug\netstandard2.0\BlazorDemoAspHosted.Shared.dll
+C:\Users\robsc\source\repos\BlazorDemoAspHosted\BlazorDemoAspHosted.Shared\bin\Debug\netstandard2.0\BlazorDemoAspHosted.Shared.pdb
+C:\Users\robsc\source\repos\BlazorDemoAspHosted\BlazorDemoAspHosted.Shared\obj\Debug\netstandard2.0\BlazorDemoAspHosted.Shared.csprojAssemblyReference.cache
+C:\Users\robsc\source\repos\BlazorDemoAspHosted\BlazorDemoAspHosted.Shared\obj\Debug\netstandard2.0\BlazorDemoAspHosted.Shared.csproj.CoreCompileInputs.cache
+C:\Users\robsc\source\repos\BlazorDemoAspHosted\BlazorDemoAspHosted.Shared\obj\Debug\netstandard2.0\BlazorDemoAspHosted.Shared.AssemblyInfoInputs.cache
+C:\Users\robsc\source\repos\BlazorDemoAspHosted\BlazorDemoAspHosted.Shared\obj\Debug\netstandard2.0\BlazorDemoAspHosted.Shared.AssemblyInfo.cs
+C:\Users\robsc\source\repos\BlazorDemoAspHosted\BlazorDemoAspHosted.Shared\obj\Debug\netstandard2.0\BlazorDemoAspHosted.Shared.dll
+C:\Users\robsc\source\repos\BlazorDemoAspHosted\BlazorDemoAspHosted.Shared\obj\Debug\netstandard2.0\BlazorDemoAspHosted.Shared.pdb
